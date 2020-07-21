@@ -1,5 +1,4 @@
-# proyect2
-
+# Memo-app
 > Practica de Vue
 
 ## Build Setup
